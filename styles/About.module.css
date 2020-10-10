@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url(../public/twoGirls.JPG);
+  background-size: 100% 130%;
+  filter: brightness(0.8);
+}
+
+.main {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main p {
+  text-align: center;
+  color: #000000;
+  opacity: 0.9;
+  font-size: 3vh;
+}
+
+.column {
+  min-width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+}
+
+.headerHomeImage {
+  width: 10rem;
+  height: 10rem;
+}

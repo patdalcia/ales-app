@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background-color: #ffffff;
+}
+
+.main {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #ffffff;
+}
+
+.card {
+  max-height: 60vh;
+  max-width: 30vw;
+  width: 30vw;
+  height: 60vh;
+  background-color: #000000;
+}

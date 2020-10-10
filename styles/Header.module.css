@@ -1,0 +1,13 @@
+.header {
+  min-height: 10vh;
+  opacity: 0.6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #000000;
+}
+.header a:hover,
+.header a:focus,
+.header a:active {
+  text-decoration: underline;
+}
