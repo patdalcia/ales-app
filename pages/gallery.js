@@ -24,27 +24,47 @@ export default function Gallery() {
           <div className={styles.break}/>
 
           <div className={styles.card}>
-          <img src="https://aterichn.sirv.com/Images/bandana.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/bandana.JPG?w=800 1x, https://aterichn.sirv.com/Images/bandana.JPG?w=1600 2x" alt="" />
+          <img src="https://aterichn.sirv.com/Images/IMG_0498.jpg?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/IMG_0498.jpg?w=800 1x, https://aterichn.sirv.com/Images/IMG_0498.jpg?w=1600 2x" alt="" />
           </div>
 
           <div className={styles.card}>
-          <img src="https://aterichn.sirv.com/Images/beach.JPG?w=800" width="800" height="531" srcset="https://aterichn.sirv.com/Images/beach.JPG?w=800 1x, https://aterichn.sirv.com/Images/beach.JPG?w=1600 2x" alt="" />
+          <img src="https://aterichn.sirv.com/Images/hero-image.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/hero-image.JPG?w=800 1x, https://aterichn.sirv.com/Images/hero-image.JPG?w=1600 2x" alt="" />   
           </div>
 
           <div className={styles.break}/>
 
           <div className={styles.card}>
-          <img src="https://aterichn.sirv.com/Images/grad_pic.JPG?w=800" width="800" height="568" srcset="https://aterichn.sirv.com/Images/grad_pic.JPG?w=800 1x, https://aterichn.sirv.com/Images/grad_pic.JPG?w=1600 2x" alt="" />
+          <img src="https://aterichn.sirv.com/Images/bandana.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/bandana.JPG?w=800 1x, https://aterichn.sirv.com/Images/bandana.JPG?w=1600 2x" alt="" />
           </div>
 
           <div className={styles.card}>
-          <img src="https://aterichn.sirv.com/Images/twoGirls.JPG?w=800" width="800" height="568" srcset="https://aterichn.sirv.com/Images/twoGirls.JPG?w=800 1x, https://aterichn.sirv.com/Images/twoGirls.JPG?w=1600 2x" alt="" />
+          <img src="https://aterichn.sirv.com/Images/twoGirls.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/twoGirls.JPG?w=800 1x, https://aterichn.sirv.com/Images/twoGirls.JPG?w=1600 2x" alt="" />
           </div>
 
           <div className={styles.break}/>
 
           <div className={styles.card}>
           <img src="https://aterichn.sirv.com/Images/jazmine_rocks.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/jazmine_rocks.JPG?w=800 1x, https://aterichn.sirv.com/Images/jazmine_rocks.JPG?w=1600 2x" alt="" />
+          </div>
+
+          <div className={styles.card}>
+          <img src="https://aterichn.sirv.com/Images/butterfly.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/butterfly.JPG?w=800 1x, https://aterichn.sirv.com/Images/butterfly.JPG?w=1600 2x" alt="" />
+          </div>
+
+          <div className={styles.break}/>
+
+          <div className={styles.card}>
+          <img src="https://aterichn.sirv.com/Images/beach.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/beach.JPG?w=800 1x, https://aterichn.sirv.com/Images/beach.JPG?w=1600 2x" alt="" />   
+          </div>
+          
+          <div className={styles.card}>
+          <img src="https://aterichn.sirv.com/Images/grad_pic.JPG?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/grad_pic.JPG?w=800 1x, https://aterichn.sirv.com/Images/grad_pic.JPG?w=1600 2x" alt="" />
+          </div>
+
+          <div className={styles.break}/>
+
+          <div className= {styles.card}>
+          <img src="https://aterichn.sirv.com/Images/DSC_0230.jpg?w=800" width="800" height="533" srcset="https://aterichn.sirv.com/Images/DSC_0230.jpg?w=800 1x, https://aterichn.sirv.com/Images/DSC_0230.jpg?w=1600 2x" alt="" />
           </div>
 
         </div> 

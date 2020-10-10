@@ -13,8 +13,8 @@ export default function Home() {
         </Head>
         <Header />
         <main className={styles.main}>
+        <h1>ALEJANDRO BALMACEDA</h1>
           <h3>photographer</h3>
-          <h1>ALEJANDRO BALMACEDA</h1>
         </main>
         <Footer />
       </div>
