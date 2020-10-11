@@ -15,7 +15,7 @@
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-image: url(https://aterichn.sirv.com/Images/hero-image.JPG);
+  background-image: url(../public/hero-image.JPG);
   background-size: 100% 130%;
 }
 

@@ -2,7 +2,6 @@ import Head from "next/head";
 import Header from "../components/header";
 import Footer from "../components/footer";
 import styles from "../styles/Gallery.module.css";
-<script src="https://scripts.sirv.com/sirv.js"></script>
 
 export default function Gallery() {
   return (
@@ -10,7 +9,7 @@ export default function Gallery() {
       <div className={styles.container}>
         <Head>
           <title>GALLERY</title>
-          <script src="https://scripts.sirv.com/sirv.js"></script>
+          <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js" data-components="image" data-options="threshold:100"></script>
         </Head>
         <Header />
         <div className={styles.main}>
