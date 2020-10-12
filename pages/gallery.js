@@ -14,57 +14,61 @@ export default function Gallery() {
         <Header />
         <div className={styles.main}>
           <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/pats_headshot.JPG?w=800" alt="" />
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/pats_headshot.JPG" alt="" />
           </div>
 
           <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/DSC-0072.jpeg?w=800" alt="" />
-          </div>
-
-          <div className={styles.break}/>
-
-          <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/IMG_0498.jpg?w=800" alt="" />
-          </div>
-
-          <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/hero-image.JPG?w=800" alt="" />  
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/DSC-0072.jpeg" alt="" />
           </div>
 
           <div className={styles.break}/>
 
           <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/bandana.JPG?w=800" alt="" />
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/bandana.JPG" alt="" />
           </div>
 
           <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/twoGirls.JPG?w=800" alt="" />
-          </div>
-
-          <div className={styles.break}/>
-
-          <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/jazmine_rocks.JPG?w=800" alt="" />
-          </div>
-
-          <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/butterfly.JPG?w=800" alt="" />
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/Headshot.jpeg" alt="" />  
           </div>
 
           <div className={styles.break}/>
 
           <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/beach.JPG?w=800" alt="" />  
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/IMG_0498.jpg" alt="" />
+          </div>
+
+          <div className={styles.card}>
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/twoGirls.JPG" alt="" />
+          </div>
+
+          <div className={styles.break}/>
+
+          <div className={styles.card}>
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/jazmine_rocks.JPG" alt="" />
+          </div>
+
+          <div className={styles.card}>
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/butterfly.JPG" alt="" />
+          </div>
+
+          <div className={styles.break}/>
+
+          <div className={styles.card}>
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/beach.JPG" alt="" />  
           </div>
           
           <div className={styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/grad_pic.JPG?w=800" alt="" />
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/grad_pic.JPG" alt="" />
           </div>
 
           <div className={styles.break}/>
 
           <div className= {styles.card}>
-          <img class="Sirv" data-src="https://aterichn.sirv.com/Images/DSC_0230.jpg?w=800" alt="" />
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/DSC_0230.jpg" alt="" />
+          </div>
+
+          <div className= {styles.card}>
+          <img class="Sirv" data-src="https://patdalcia.sirv.com/Images/hero-image.JPG" alt="" />
           </div>
 
         </div> 

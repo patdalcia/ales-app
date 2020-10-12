@@ -19,8 +19,10 @@
 }
 
 .card {
-  max-height: 800px;
-  background-color: aliceblue;
+  max-width: 40vw;
+  max-height: 60vh;
+  height: 60vh;
+  width: 40vw;
 }
 
 .card img {

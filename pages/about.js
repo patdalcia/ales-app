@@ -17,7 +17,7 @@ export default function About() {
           <div className={styles.column}>
             <div>
               <img
-                src="/profile.jpg"
+                src="/Headshot.jpeg"
                 className={`${styles.headerHomeImage} ${styles.borderCircle}`}
               />
             </div>
